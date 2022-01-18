@@ -1,0 +1,74 @@
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\bin\Debug\Fenotran.exe.config
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\bin\Debug\Fenotran.exe
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\bin\Debug\Fenotran.pdb
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.csprojResolveAssemblyReference.cache
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.Properties.Resources.resources
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.TelaInicial.resources
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.csproj.GenerateResource.Cache
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.exe
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.pdb
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.Inicio.resources
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.DuasParedes.resources
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.TresParedes.resources
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.UmaParede.resources
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.Dimensoes.resources
+c:\users\adelmojr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.Temperatura.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.R1UmaParede.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.R2UmaParede.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.R1TresParedes.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.R2TresParedes.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.R1DuasParedes.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.R2DuasParedes.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.Cilindrico.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.R1Cilindrico.resources
+C:\Users\AdelmoJr\documents\visual studio 2017\Projects\Fenotran\Fenotran\obj\Debug\Fenotran.R2Cilindrico.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\bin\Debug\Fenotran.exe.config
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\bin\Debug\Fenotran.exe
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\bin\Debug\Fenotran.pdb
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.csprojResolveAssemblyReference.cache
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Cilindrico.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Dimensoes.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.DuasParedes.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Inicio.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Properties.Resources.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R1Cilindrico.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R1DuasParedes.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R1TresParedes.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R1UmaParede.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R2Cilindrico.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R2DuasParedes.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R2TresParedes.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R2UmaParede.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.TelaInicial.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Temperatura.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.TresParedes.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.UmaParede.resources
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.csproj.GenerateResource.Cache
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.exe
+C:\Users\AdelmoJr\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.pdb
+C:\Users\junin\Desktop\Fenotran\Fenotran\bin\Debug\Fenotran.exe.config
+C:\Users\junin\Desktop\Fenotran\Fenotran\bin\Debug\Fenotran.exe
+C:\Users\junin\Desktop\Fenotran\Fenotran\bin\Debug\Fenotran.pdb
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.csproj.SuggestedBindingRedirects.cache
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Cilindrico.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Dimensoes.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.DuasParedes.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Inicio.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Properties.Resources.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R1Cilindrico.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R1DuasParedes.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R1TresParedes.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R1UmaParede.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R2Cilindrico.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R2DuasParedes.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R2TresParedes.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.R2UmaParede.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.TelaInicial.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.Temperatura.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.TresParedes.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.UmaParede.resources
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.csproj.GenerateResource.cache
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.exe
+C:\Users\junin\Desktop\Fenotran\Fenotran\obj\Debug\Fenotran.pdb

@@ -1,0 +1,21 @@
+﻿Alfa#Cumprida#920#363#9118#11#2171#0#5#1203#Drone apto para a proxima missão#17/05/2016 14:57:48#VisioTech
+Gama#Cumprida#222#357#8057#10#1966#2#3#1223#Drone apto para a proxima missão#17/05/2016 14:58:13#VisioTech
+Beta#Cumprida#229#666#8474#9#1784#1#1#1510#Drone apto para a proxima missão#17/05/2016 14:58:34#VisioTech
+Darth#Cumprida#1045#643#10227#11#2131#0#8#496#Drone apto para a proxima missão#17/05/2016 14:58:56#VisioTech
+Saturno#Cumprida#879#388#8458#9#1800#0#3#484#Drone apto para a proxima missão#17/05/2016 14:59:52#VisioTech
+Moon#Cumprida#959#607#8786#11#2143#2#5#998#Drone apto para a proxima missão#17/05/2016 15:00:51#VisioTech
+Star#Cumprida#301#243#8953#10#1968#1#5#1789#Drone apto para a proxima missão#17/05/2016 15:01:42#VisioTech
+Starck#Cumprida com perdas#727#621#6919#5#3000#3#10#2500#Drone Abatido#17/05/2016 15:03:20#VisioTech
+Buck#Cumprida com perdas#261#406#7279#4#3000#3#10#2500#Drone Abatido#17/05/2016 15:03:51#VisioTech
+Jar#Cumprida com perdas#387#663#7889#5#3000#3#10#2500#Drone Abatido#17/05/2016 15:04:14#VisioTech
+Delf#Cumprida com perdas#810#578#6693#4#3000#3#10#2500#Drone Abatido#17/05/2016 15:04:38#VisioTech
+Duff#Abortada#652#321#7373#10#1821#0#0#0#Avaria no sensor de defesa.  	Drone enviado para manutenção#17/05/2016 15:05:20#VisioTech
+Death#Abortada#341#314#8187#9#1706#0#0#0#Eventos climaticos, alterando as comunicações.  	Drone enviado para manutenção#17/05/2016 15:05:46#VisioTech
+Titan#Abortada#296#597#6690#8#1487#0#0#0#Avaria no sensor de defesa.  	Drone enviado para manutenção#17/05/2016 15:06:05#VisioTech
+Fire#Abortada#825#694#9356#10#1930#0#0#0#Falha no radar térmico.  	Drone enviado para manutenção#17/05/2016 15:06:45#VisioTech
+Master#Falha#931#393#8869#5#3000#3#10#2500# Drone Abatido#17/05/2016 15:07:53#VisioTech
+Joao#Falha#773#232#9106#6#3000#3#10#2500# Drone Abatido#17/05/2016 15:08:08#VisioTech
+Rock#Falha#213#335#8334#5#3000#3#10#2500# Drone Abatido#17/05/2016 15:08:20#VisioTech
+Qwerty#Falha#222#607#7170#5#3000#3#10#2500# Drone Abatido#17/05/2016 15:08:32#VisioTech
+Runner#Falha#1086#600#9873#6#3000#3#10#2500# Drone Abatido#17/05/2016 15:08:52#VisioTech
+FoxTrot#Falha#454#556#4630#3#3000#3#10#2500# Drone Abatido#18/01/2022 20:19:52#VisioTech

@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{114A970F-C185-404C-903A-49E7D3AC2D97}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projeto</RootNamespace>
+    <AssemblyName>Projeto</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ataque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ataque.designer.cs">
+      <DependentUpon>Ataque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BancoTerrorista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BancoTerrorista.designer.cs">
+      <DependentUpon>BancoTerrorista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarTerrorista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarTerrorista.designer.cs">
+      <DependentUpon>CadastrarTerrorista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadUsuario.designer.cs">
+      <DependentUpon>CadUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DadosAviao.cs" />
+    <Compile Include="DadosTerro.cs" />
+    <Compile Include="Dadosusu.cs" />
+    <Compile Include="DelUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DelUsuario.designer.cs">
+      <DependentUpon>DelUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estatisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estatisticas.designer.cs">
+      <DependentUpon>Estatisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estatisticasmapa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estatisticasmapa.designer.cs">
+      <DependentUpon>Estatisticasmapa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Historico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historico.designer.cs">
+      <DependentUpon>Historico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giro.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarTerroristacs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarTerroristacs.designer.cs">
+      <DependentUpon>ModificarTerroristacs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelatorioBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioBan.designer.cs">
+      <DependentUpon>RelatorioBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioUlt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelatorioUlt.designer.cs">
+      <DependentUpon>RelatorioUlt.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ataque.resx">
+      <DependentUpon>Ataque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BancoTerrorista.resx">
+      <DependentUpon>BancoTerrorista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarTerrorista.resx">
+      <DependentUpon>CadastrarTerrorista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadUsuario.resx">
+      <DependentUpon>CadUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DelUsuario.resx">
+      <DependentUpon>DelUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estatisticas.resx">
+      <DependentUpon>Estatisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estatisticasmapa.resx">
+      <DependentUpon>Estatisticasmapa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historico.resx">
+      <DependentUpon>Historico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarTerroristacs.resx">
+      <DependentUpon>ModificarTerroristacs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RelatorioBan.resx">
+      <DependentUpon>RelatorioBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatorioUlt.resx">
+      <DependentUpon>RelatorioUlt.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mapa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tela principal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relatorio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groupbox.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estatisticas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadusuario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GrayRoundedButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botao.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

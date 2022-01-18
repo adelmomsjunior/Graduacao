@@ -1,0 +1,46 @@
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\bin\Debug\Projeto.exe.config
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\bin\Debug\Projeto.exe
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\bin\Debug\Projeto.pdb
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.exe
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.pdb
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Login.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Inicio.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Principal.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.RelatorioBan.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Estatisticas.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Estatisticasmapa.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.BancoTerrorista.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.CadastrarTerrorista.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.ModificarTerroristacs.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Historico.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.CadUsuario.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.DelUsuario.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.Ataque.resources
+c:\users\adelmo júnior\documents\visual studio 2015\Projects\Projeto\Projeto\obj\Debug\Projeto.RelatorioUlt.resources
+C:\Users\junin\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\junin\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\junin\Desktop\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.Ataque.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.BancoTerrorista.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.CadastrarTerrorista.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.CadUsuario.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.DelUsuario.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.Estatisticas.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.Estatisticasmapa.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.Historico.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.Inicio.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.Login.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.ModificarTerroristacs.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.RelatorioBan.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.RelatorioUlt.resources
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\junin\Desktop\Projeto\Projeto\obj\Debug\Projeto.pdb
